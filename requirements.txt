@@ -24,6 +24,7 @@ django_csp==3.8
 djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
+gunicorn==23.0.0
 h11==0.14.0
 idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
 Jinja2==3.1.4
