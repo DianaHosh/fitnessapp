@@ -30,7 +30,9 @@ SECRET_KEY = 'django-insecure-8--5u6=l8z=j28^a%)5t$1=$^7yv(wvydr1&p$+9-=huwv0q!c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['good-fitness-app.azurewebsites.net',
+                 'localhost',
+                 '127.0.0.1']
 
 
 # Application definition
