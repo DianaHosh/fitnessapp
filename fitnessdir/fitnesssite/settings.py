@@ -86,15 +86,11 @@ WSGI_APPLICATION = 'fitnesssite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'fitness_app_new',
-        'USER': 'root',
-        'PASSWORD': 'Vita2172s14D10',
-        'HOST': 'localhost',
+        'NAME': 'fitness_app_new_copy',
+        'USER': 'diana',
+        'PASSWORD': 'Zori2172',
+        'HOST': 'fitnessapp.mysql.database.azure.com',
         'PORT': '3306',
-        'TEST': {
-            'NAME': 'test_fitness_app_new',
-            'MIRROR': 'default',
-        },
     }
 }
 
