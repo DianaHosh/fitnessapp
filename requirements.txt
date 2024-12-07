@@ -7,6 +7,7 @@ Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
 certifi @ file:///C:/b/abs_7bbxxprxir/croot/certifi_1720453609121/work/certifi
 cffi @ file:///C:/b/abs_78eb1_vq6z/croot/cffi_1714483206096/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click==8.1.7
 colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1699472650914/work
 conda @ file:///C:/b/abs_69e_za3rd5/croot/conda_1722004627938/work
 conda-content-trust @ file:///C:/b/abs_bdfatn_wzf/croot/conda-content-trust_1714483201909/work
@@ -23,6 +24,7 @@ django_csp==3.8
 djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
+h11==0.14.0
 idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
 Jinja2==3.1.4
 jsonpatch @ file:///C:/b/abs_4fdm88t7zi/croot/jsonpatch_1714483974578/work
@@ -58,6 +60,7 @@ truststore @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/trust
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3 @ file:///C:/b/abs_a7hvzm4y95/croot/urllib3_1718912661242/work
+uvicorn==0.32.1
 wheel==0.43.0
 win-inet-pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1699472992992/work
 xyzservices==2024.9.0
